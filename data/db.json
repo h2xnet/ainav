@@ -641,6 +641,17 @@
                                 "url": "https://ie.sogou.com/",
                                 "urls": {
                                 }
+                            },
+                            {
+                                "createdAt": "2023-12-03T08:32:06.423Z",
+                                "desc": "下载由致力于互联网健康与隐私保护的非营利组织 Mozilla 全力开发的浏览器 — Firefox。",
+                                "icon": "assets/img/firefox.png",
+                                "name": "Firefox火狐浏览器",
+                                "rate": 4,
+                                "top": false,
+                                "url": "http://www.firefox.com.cn/",
+                                "urls": {
+                                }
                             }
 							
                         ],
