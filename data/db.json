@@ -158,7 +158,7 @@
                                 "desc": "秀米,微信公众号图文排版和H5制作工具,海量模板素材和排版样式,强大的布局编辑功能,轻松制作公众号图文和H5,打动你的人群!",
                                 "icon": "https://xiumi.us/images/b80cd8.xiumi_logo_40.png",
                                 "name": "秀米XIUMI",
-                                "rate": 5,
+                                "rate": 4,
                                 "top": false,
                                 "url": "https://xiumi.us/",
                                 "urls": {
@@ -167,9 +167,9 @@
 							 {
                                 "createdAt": "2023-12-03T08:32:06.423Z",
                                 "desc": "微信公众平台,给个人、企业和组织提供业务服务与用户管理能力的全新服务平台。",
-                                "icon": "assets/img/weixin.png",
+                                "icon": "assets/img/weixin2.png",
                                 "name": "微信公众平台",
-                                "rate": 5,
+                                "rate": 4,
                                 "top": false,
                                 "url": "https://mp.weixin.qq.com/",
                                 "urls": {
@@ -180,7 +180,7 @@
                                 "desc": "小红书是年轻人的生活方式平台。在这里发现真实、向上、多元的世界，找到潮流的生活方式，认识有趣的明星、创作者；在这里发现海量美妆穿搭教程、旅游攻略、美食健身日常，还...",
                                 "icon": "assets/img/xiaohongshu2.png",
                                 "name": "小红书",
-                                "rate": 5,
+                                "rate": 4,
                                 "top": false,
                                 "url": "https://www.xiaohongshu.com/",
                                 "urls": {
@@ -189,9 +189,9 @@
 							{
                                 "createdAt": "2023-12-03T08:32:06.423Z",
                                 "desc": "知乎,中文互联网高质量的问答社区和创作者聚集的原创内容平台,于 2011 年 1 月正式上线,以「让人们更好的分享知识、经验和见解,找到自己的解答」为品牌使命。",
-                                "icon": "https://pic2.zhimg.com/80/v2-f6b1f64a098b891b4ea1e3104b5b71f6_720w.png",
+                                "icon": "assets/img/zhihu2.png",
                                 "name": "知乎- 有问题,就会有答案",
-                                "rate": 5,
+                                "rate": 4,
                                 "top": false,
                                 "url": "https://www.zhihu.com/",
                                 "urls": {
@@ -200,9 +200,9 @@
                             {
                                 "createdAt": "2021-01-23T01:32:06.423Z",
                                 "desc": "优雅高效的在线文档编辑与协同工具，让每个企业轻松拥有文档中心 - 阿里巴巴",
-                                "icon": "https://yuque.com/favicon.ico",
+                                "icon": "assets/img/yuque.png",
                                 "name": "语雀",
-                                "rate": 5,
+                                "rate": 4,
                                 "top": false,
                                 "url": "https://yuque.com/",
                                 "urls": {
@@ -213,7 +213,7 @@
                                 "desc": "豆瓣（douban）是一个社区网站。网站由杨勃（网名“阿北”） 创立于2005年3月6日。该网站以书影音起家，提供关于书籍、电影、音乐等作品的信息，无论描述还是评论都由用户提供（User-generated content，UGC），是Web2.0网站中具有特色的一个网站。",
                                 "icon": "assets/img/douban.png",
                                 "name": "豆瓣",
-                                "rate": 5,
+                                "rate": 3,
                                 "top": false,
                                 "url": "https://www.douban.com/",
                                 "urls": {
@@ -656,7 +656,7 @@
                             {
                                 "createdAt": "2023-12-03T08:32:06.423Z",
                                 "desc": "chrome浏览器一般指Google Chrome。 Google Chrome是一款由Google公司开发的网页浏览器。该浏览器基于其他开源软件（如WebKit）撰写，目标是提升稳定性、速度和安全性，并创造出简单且有效率的使用者界面。",
-                                "icon": "assets/img/chrome.png",
+                                "icon": "assets/img/chrom.webp",
                                 "name": "chrome浏览器",
                                 "rate": 5,
                                 "top": false,
@@ -667,7 +667,7 @@
 							{
                                 "createdAt": "2023-12-03T08:32:06.423Z",
                                 "desc": "360安全浏览器15·全新升级 Chromium114内核 安全防护 丰富内置功能 强大AI助手",
-                                "icon": "assets/img/360sfie2.png",
+                                "icon": "assets/img/360sfie.webp",
                                 "name": "360安全浏览器",
                                 "rate": 4,
                                 "top": false,
@@ -678,7 +678,7 @@
 							{
                                 "createdAt": "2023-12-03T08:32:06.423Z",
                                 "desc": "360极速浏览器是国内高端用户首选的浏览器。360极速浏览器在保证安全和稳定的基础上把“极速”做到极致,启动快,打开网页快。同时它界面简洁精致,还支持通过壁纸实现整体换肤,换肤效果令人印象深刻。",
-                                "icon": "assets/img/360eeie2.png",
+                                "icon": "assets/img/360eeie.png",
                                 "name": "360极速浏览器",
                                 "rate": 4,
                                 "top": false,
@@ -689,7 +689,7 @@
                             {
                                 "createdAt": "2023-12-03T08:32:06.423Z",
                                 "desc": "高速上网,就用搜狗高速浏览器!搜狗高速浏览器独创预取引擎技术,引领新的上网速度革命,给您带来秒开网页的超快体验。",
-                                "icon": "assets/img/sogouie.png",
+                                "icon": "assets/img/sougouie2.png",
                                 "name": "搜狗浏览器",
                                 "rate": 4,
                                 "top": false,
@@ -700,7 +700,7 @@
                             {
                                 "createdAt": "2023-12-03T08:32:06.423Z",
                                 "desc": "下载由致力于互联网健康与隐私保护的非营利组织 Mozilla 全力开发的浏览器 — Firefox。",
-                                "icon": "assets/img/firefox.png",
+                                "icon": "assets/img/firefox.webp",
                                 "name": "Firefox火狐浏览器",
                                 "rate": 4,
                                 "top": false,
@@ -883,18 +883,6 @@
                                 "top": false,
                                 "url": "https://player.qq.com/",
                                 "urls": {
-                                }
-                            },
-                            {
-                                "createdAt": "2021-01-23T01:32:06.423Z",
-                                "desc": "VLC 是一款自由、开源的跨平台多媒体播放器及框架,可播放大多数多媒体文件,以及 DVD、音频 CD、VCD 及各类流媒体协议。",
-                                "icon": "assets/img/vlcplayer.png",
-                                "name": "VLC",
-                                "rate": 5,
-                                "top": false,
-                                "url": "https://www.videolan.org/",
-                                "urls": {
-                                    "Github": "https://github.com/videolan/vlc"
                                 }
                             },
                             {
@@ -1365,7 +1353,7 @@
                             }
 							
                         ],
-                        "title": "在线影视"
+                        "title": "影视"
                     },
 					{
                         "collapsed": false,
@@ -1432,7 +1420,7 @@
                     }
                    
                 ],
-                "title": "视频平台"
+                "title": "视频"
             },
 			{
                 "collapsed": false,
@@ -1460,11 +1448,29 @@
 					
                    
                 ],
-                "title": "音乐平台"
+                "title": "音乐"
+            },
+			{
+                "collapsed": false,
+                "createdAt": "2023-12-03T08:32:06.423Z",
+                "nav": [		
+					{
+                        "collapsed": false,
+                        "createdAt": "2023-12-03T08:32:06.423Z",
+                        "nav": [
+                            
+							
+                        ],
+                        "title": "聆听经典"
+                    }
+					
+                   
+                ],
+                "title": "播客"
             }
 			
 		],
-		"title": "视频音乐"
+		"title": "音视频"
 	},
 	{
 		"createdAt": "2023-12-03T21:53:06.423Z",
@@ -1624,54 +1630,6 @@
 			{
                 "collapsed": false,
                 "createdAt": "2023-12-03T08:32:06.423Z",
-                "nav": [	
-					{
-                        "collapsed": false,
-                        "createdAt": "2023-12-03T08:32:06.423Z",
-                        "nav": [
-                            {
-                                "createdAt": "2023-12-03T08:32:06.423Z",
-                                "desc": "“铁路12306”是中国铁路客户服务中心推出的官方手机购票应用软件，与火车票务官方网站共享用户、订单和票额等信息，并使用统一的购票业务规则，软件具有车票预订、在线支付、改签、退票、订单查询、常用联系人管理、个人资料修改、密码修改等功能。",
-                                "icon": "assets/img/12306.png",
-                                "name": "中国铁路12306网站",
-                                "rate": 5,
-                                "top": false,
-                                "url": "https://www.12306.cn/index/",
-                                "urls": {
-                                }
-                            }
-							
-                        ],
-                        "title": "火车出行"
-                    },
-					{
-                        "collapsed": false,
-                        "createdAt": "2023-12-03T08:32:06.423Z",
-                        "nav": [
-                            {
-                                "createdAt": "2023-12-03T08:32:06.423Z",
-                                "desc": "中国南方航空官网,提供国内国际机票预订,飞机票查询,航班查询,特价打折机票预订,明珠会员服务等.南航特价优惠机票2折起,南航官网预订机票最高直减15%,南航全国销售服务热线95539.",
-                                "icon": "assets/img/chinasouthern.png",
-                                "name": "中国南方航空官网-机票查询,机票预定,航班查询",
-                                "rate": 5,
-                                "top": false,
-                                "url": "https://www.csair.com/cn/",
-                                "urls": {
-                                }
-                            }
-							
-							
-                        ],
-                        "title": "飞机出行"
-                    }
-					
-                   
-                ],
-                "title": "出行"
-            },
-			{
-                "collapsed": false,
-                "createdAt": "2023-12-03T08:32:06.423Z",
                 "nav": [		
 					{
                         "collapsed": false,
@@ -1725,9 +1683,58 @@
                    
                 ],
                 "title": "旅行"
+            },
+			{
+                "collapsed": false,
+                "createdAt": "2023-12-03T08:32:06.423Z",
+                "nav": [	
+					{
+                        "collapsed": false,
+                        "createdAt": "2023-12-03T08:32:06.423Z",
+                        "nav": [
+                            {
+                                "createdAt": "2023-12-03T08:32:06.423Z",
+                                "desc": "“铁路12306”是中国铁路客户服务中心推出的官方手机购票应用软件，与火车票务官方网站共享用户、订单和票额等信息，并使用统一的购票业务规则，软件具有车票预订、在线支付、改签、退票、订单查询、常用联系人管理、个人资料修改、密码修改等功能。",
+                                "icon": "assets/img/12306.png",
+                                "name": "中国铁路12306网站",
+                                "rate": 5,
+                                "top": false,
+                                "url": "https://www.12306.cn/index/",
+                                "urls": {
+                                }
+                            }
+							
+                        ],
+                        "title": "火车出行"
+                    },
+					{
+                        "collapsed": false,
+                        "createdAt": "2023-12-03T08:32:06.423Z",
+                        "nav": [
+                            {
+                                "createdAt": "2023-12-03T08:32:06.423Z",
+                                "desc": "中国南方航空官网,提供国内国际机票预订,飞机票查询,航班查询,特价打折机票预订,明珠会员服务等.南航特价优惠机票2折起,南航官网预订机票最高直减15%,南航全国销售服务热线95539.",
+                                "icon": "assets/img/chinasouthern.png",
+                                "name": "中国南方航空官网-机票查询,机票预定,航班查询",
+                                "rate": 5,
+                                "top": false,
+                                "url": "https://www.csair.com/cn/",
+                                "urls": {
+                                }
+                            }
+							
+							
+                        ],
+                        "title": "飞机出行"
+                    }
+					
+                   
+                ],
+                "title": "出行"
             }
+			
 		],
-		"title": "出行旅游"
+		"title": "旅游出行"
 	},
 	{
 		"createdAt": "2023-12-03T22:13:06.423Z",
@@ -2172,7 +2179,7 @@
                                 "name": "慧学之家",
                                 "rate": 5,
                                 "top": false,
-                                "url": "https://h5.ixuni.ink/h5/?sub=hxxstud#/pages/user/about",
+                                "url": "https://h5.ixuni.ink/h5/?sub=hxxstud#/",
                                 "urls": {
                                 }
                             }
