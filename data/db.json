@@ -244,37 +244,9 @@
 							
                         ],
                         "title": "创作工具及平台"
-                    },
-					{
-                        "collapsed": false,
-                        "createdAt": "2023-12-03T08:32:06.423Z",
-                        "nav": [
-                            {
-                                "createdAt": "2023-12-03T08:32:06.423Z",
-                                "desc": "正版素材持续更新!全站资源畅选!正版授权保障,每周更新500+!全场景素材需求覆盖,为创作者提供一站式正版素材服务",
-                                "icon": "assets/img/playlist2.png",
-                                "name": "PlayList素材网站",
-                                "rate": 4,
-                                "top": false,
-                                "url": "https://www.playlistmusic.com.cn/playList",
-                                "urls": {
-                                }
-                            },
-                            {
-                                "createdAt": "2023-12-03T08:32:06.423Z",
-                                "desc": "觅知网专注原创版权设计模板图片素材下载。超过200万PPT模板、海报、PNG素材、背景、插画、元素、摄影图片、字体、视频、音频素材大全供会员免费下载。",
-                                "icon": "assets/img/mizhi2.png",
-                                "name": "觅知网",
-                                "rate": 4,
-                                "top": false,
-                                "url": "https://www.51miz.com/",
-                                "urls": {
-                                }
-                            }
-							
-                        ],
-                        "title": "素材资源库"
                     }
+					
+					
                    
                 ],
                 "title": "自媒体"
@@ -285,6 +257,17 @@
                     {
                         "createdAt": "2021-01-23T01:32:06.423Z",
                         "nav": [
+							 {
+                                "createdAt": "2021-01-23T01:32:06.423Z",
+                                "desc": "优设网 (uisdc.com) 是国内设计师入门到进阶的专业设计网站。AIGC及设计内容全面及时,全网粉丝过千万。专注前沿设计趋势和设计方法论,拥有原创独家设计内容和设计师网站导航。提供AIGC教程、灵感...",
+                                "icon": "assets/img/youshe.webp",
+                                "name": "优设网官网 - UISDC - 国内专业设计师平台 - 看...",
+                                "rate": 4,
+                                "top": false,
+                                "url": "https://www.uisdc.com/",
+                                "urls": {
+                                }
+                            },
 							{
                                 "createdAt": "2021-01-23T01:32:06.423Z",
                                 "desc": "iconfont-国内功能很强大且图标内容很丰富的矢量图标库,提供矢量图标下载、在线存储、格式转换等功能。",
@@ -321,7 +304,7 @@
                             {
                                 "createdAt": "2021-01-23T01:32:06.423Z",
                                 "desc": "稿定抠图是一款AI人工智能在线自动抠图工具,不管是证件照换底色,还是复杂图片换背景,不用PS,就能轻松实现AI抠图效果。",
-                                "icon": "https://cdn.dancf.com/fe-assets/20230614/logo/logo-monochrome.svg",
+                                "icon": "assets/img/gaoding.jpg",
                                 "name": "稿定抠图",
                                 "rate": 4,
                                 "top": false,
@@ -331,19 +314,9 @@
                             },
                             {
                                 "createdAt": "2021-01-23T01:32:06.423Z",
-                                "desc": "删除线上图像背景。使背景透明，白色等编辑，裁剪，旋转，固定颜色，添加阴影，一款在线抠图工具",
-                                "name": "Clipping Magic",
-                                "rate": 4,
-                                "top": false,
-                                "url": "https://zh.clippingmagic.com/",
-                                "urls": {
-                                }
-                            },
-                            {
-                                "createdAt": "2021-01-23T01:32:06.423Z",
-                                "desc": "蓝湖是一款设计图共享平台,帮助互联网团队管理设计图",
-                                "icon": "https://lhcdn.lanhuapp.com/web/static/favicon.ico",
-                                "name": "蓝湖",
+                                "desc": "蓝湖是一款产品文档和设计图的共享平台,帮助互联网团队更好地管理文档和设计图。蓝湖可以在线展示Axure,自动生成设计图标注,与团队共享设计图,展示页面之间的跳转关系。",
+                                "icon": "assets/img/lanhu.webp",
+                                "name": "蓝湖-高效的产品设计协作平台",
                                 "rate": 5,
                                 "top": false,
                                 "url": "https://lanhuapp.com/",
@@ -352,9 +325,9 @@
                             },
                             {
                                 "createdAt": "2021-01-23T01:32:06.423Z",
-                                "desc": "鹿班 - 让设计更美好(阿里出品)",
-                                "icon": "https://g.alicdn.com/acca/resource/luban/image/favicon.png",
-                                "name": "鹿班",
+                                "desc": "使用鹿班创作钻展图,操作简单,生成图片迅速,支持多尺寸。可根据不同场景风格生成图片,且能根据大数据对模板优化,生成的部分图片点击率非常高,符合消费者点击喜好。",
+                                "icon": "assets/img/luban.webp",
+                                "name": "鹿班- 让设计更美好",
                                 "rate": 5,
                                 "top": false,
                                 "url": "https://luban.aliyun.com/",
@@ -363,9 +336,9 @@
                             },
                             {
                                 "createdAt": "2021-01-23T01:32:06.423Z",
-                                "desc": "一款简单易用、功能强大的线上图形设计工具",
-                                "icon": "https://www.chuangkit.com/favicon.ico",
-                                "name": "创客贴",
+                                "desc": "创客贴,极简好用的平面设计作图软件,在线图片编辑器,免费使用.提供免费设计模板,有海报、名片、公众号图片、PPT、邀请函等65个场景模板,一键搞定设计印刷",
+                                "icon": "assets/img/chuanketie.jpeg",
+                                "name": "创客贴_平面设计作图神器_免费设计模板_在线搞定...",
                                 "rate": 5,
                                 "top": false,
                                 "url": "https://www.chuangkit.com/",
@@ -374,26 +347,16 @@
                             },
                             {
                                 "createdAt": "2021-01-23T01:32:06.423Z",
-                                "desc": "极简大纲笔记 | 一键生成思维导图",
-                                "icon": "https://mubu.com/favicon.ico",
-                                "name": "幕布",
+                                "desc": "幕布是一款结合了大纲笔记和思维导图的头脑管理工具,帮你用更高效的方式和更清晰的结构来记录笔记、管理任务、制定计划甚至是组织头脑风暴。",
+                                "icon": "assets/img/mubu.jpg",
+                                "name": "幕布- 极简大纲笔记 | 一键生成思维导图",
                                 "rate": 5,
                                 "top": false,
                                 "url": "https://mubu.com/",
                                 "urls": {
                                 }
-                            },
-                            {
-                                "createdAt": "2021-01-23T01:32:06.423Z",
-                                "desc": "免费在线作图工具,UML作图,UI界面原型设计,iOS原型设计,BPMN,流程图,思维导图,多人协作绘图",
-                                "icon": "https://www.processon.com/favicon.ico",
-                                "name": "ProcessOn",
-                                "rate": 3,
-                                "top": false,
-                                "url": "https://www.processon.com/",
-                                "urls": {
-                                }
                             }
+							
                         ],
                         "title": "设计资源和工具"
                     }
@@ -411,7 +374,7 @@
 							{
                                 "createdAt": "2021-01-23T01:32:06.423Z",
                                 "desc": "TeamViewer远程连接控制软件是一款随时随地连接到远程桌面电脑、移动设备及Iot,让远程连接过程更加的快速和安全,轻松实现对文件、网络及程序的实时支持或访问。",
-                                "icon": "https://www.teamviewer.cn/wp-content/themes/tv-wordpress-theme/dist/media/favicon.png",
+                                "icon": "assets/img/teamview.png",
                                 "name": "TeamViewer",
                                 "rate": 5,
                                 "top": false,
@@ -422,7 +385,7 @@
                             {
                                 "createdAt": "2021-01-23T01:32:06.423Z",
                                 "desc": "向日葵远程控制软件是一款免费的集远程控制电脑手机、远程桌面连接、远程开机、远程管理、支持内网穿透的一体化远程控制管理工具软件",
-                                "icon": "https://sunlogin.oray.com/favicon.ico",
+                                "icon": "assets/img/xianrikui.webp",
                                 "name": "向日葵",
                                 "rate": 5,
                                 "top": false,
@@ -432,9 +395,9 @@
                             },
 							{
                                 "createdAt": "2021-01-23T01:32:06.423Z",
-                                "desc": "nginx配置生成器",
-                                "icon": "https://www.digitalocean.com/favicon.ico",
-                                "name": "nginxconfig",
+                                "desc": "Nginx配置生成器",
+                                "icon": "assets/img/digitalocean.png",
+                                "name": "NGINXConfig | DigitalOcean",
                                 "rate": 4,
                                 "top": false,
                                 "url": "https://www.digitalocean.com/community/tools/nginx#?",
@@ -444,48 +407,16 @@
                             },
                             {
                                 "createdAt": "2021-01-23T01:32:06.423Z",
-                                "desc": "免费HTTP代理IP",
-                                "icon": "https://img.kuaidaili.com/img/favicon.ico?v=3",
-                                "name": "免费代理",
+                                "desc": "快代理创立于2013年,专注为企业和开发者提供高品质的HTTP代理IP云服务,每日去重代理IP超40万个,提供使用IP代理服务完备的API接口和SDK,赋能于需要大量使用IP代理来实现大规模公共数据采集的场景,...",
+                                "icon": "assets/img/kuaiagent.png",
+                                "name": "快代理 - 企业级HTTP代理IP云服务",
                                 "rate": 3,
                                 "top": false,
                                 "url": "https://www.kuaidaili.com/free/inha/1/",
                                 "urls": {
                                 }
-                            },
-							{
-                                "createdAt": "2021-01-23T01:32:06.423Z",
-                                "desc": "MD5在线解密|md5在线破解|批量破解md5网站",
-                                "icon": "http://www.chamd5.org/favicon.ico",
-                                "name": "查MD5",
-                                "rate": 5,
-                                "top": false,
-                                "url": "http://www.cmd5.com/",
-                                "urls": {
-                                }
-                            },
-                            {
-                                "createdAt": "2021-01-23T01:32:06.423Z",
-                                "desc": "jwt 在线解码",
-                                "icon": "https://jwt.io/img/favicon/apple-icon-76x76.png",
-                                "name": "JSON Web Tokens",
-                                "rate": 5,
-                                "top": false,
-                                "url": "https://jwt.io/",
-                                "urls": {
-                                }
-                            },
-                            {
-                                "createdAt": "2021-01-23T01:32:06.423Z",
-                                "desc": "base64在线解码编码",
-                                "icon": "http://www.xpcha.com/favicon.ico",
-                                "name": "base64",
-                                "rate": 5,
-                                "top": false,
-                                "url": "http://base64.xpcha.com/",
-                                "urls": {
-                                }
                             }
+							
 							
                         ],
                         "title": "运维工具"
@@ -794,7 +725,7 @@
                             {
                                 "createdAt": "2021-01-23T01:32:06.423Z",
                                 "desc": "一款轻便、简洁的在线协作文档工具，PC端和移动端全覆盖，支持多人同时对文档编辑和评论...",
-                                "icon": "https://assets.smcdn.cn/from_qbox/favicon.ico",
+                                "icon": "assets/img/shimo.png",
                                 "name": "石墨文档",
                                 "rate": 4,
                                 "top": false,
