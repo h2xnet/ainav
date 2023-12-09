@@ -860,12 +860,12 @@
 						"nav": [
 							{
 								"createdAt": "2023-12-03T08:32:06.423Z",
-								"desc": "今日热点todayhot.cn,首席热点资讯平台,关注每日热点财经、商业、企业、科技、时尚、金融等热点资讯,为读者、各界企业家提供及时的全球热点资讯。",
-								"icon": "assets/img/todayhot.webp",
-								"name": "今日热点 - 观热点 有温度!",
+								"desc": "微软热点资讯平台,关注每日热点财经、商业、企业、科技、时尚、金融等热点资讯,为读者、各界企业家提供及时的全球热点资讯。",
+								"icon": "assets/img/microsoft.png",
+								"name": "微软发现",
 								"rate": 4,
 								"top": false,
-								"url": "http://www.todayhot.cn/",
+								"url": "https://www.msn.cn/zh-cn/feed",
 								"urls": {
 								}
 							}
@@ -895,12 +895,12 @@
 						"nav": [
 							{
 								"createdAt": "2023-12-03T08:32:06.423Z",
-								"desc": "今日热点todayhot.cn,首席热点资讯平台,关注每日热点财经、商业、企业、科技、时尚、金融等热点资讯,为读者、各界企业家提供及时的全球热点资讯。",
-								"icon": "assets/img/todayhot.webp",
-								"name": "今日热点 - 观热点 有温度!",
+								"desc": "微软热点资讯平台,关注每日热点财经、商业、企业、科技、时尚、金融等热点资讯,为读者、各界企业家提供及时的全球热点资讯。",
+								"icon": "assets/img/microsoft.png",
+								"name": "微软发现",
 								"rate": 4,
 								"top": false,
-								"url": "http://www.todayhot.cn/",
+								"url": "https://www.msn.cn/zh-cn/feed",
 								"urls": {
 								}
 							}
