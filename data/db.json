@@ -69,6 +69,13 @@
 							
                         ],
                         "title": "AI大模型"
+					},
+					{
+						"collapsed": false,
+                        "createdAt": "2023-12-02T20:32:06.423Z",
+                        "nav": [
+						],
+						"title": "GPT专场"
 					}
 				],
                 "title": "AI工具"
@@ -597,7 +604,7 @@
                             },
 							{
                                 "createdAt": "2023-12-03T08:32:06.423Z",
-                                "desc": "360安全浏览器15·全新升级 Chromium114内核 安全防护 丰富内置功能 强大AI助手",
+                                "desc": "360安全浏览器，全新升级 Chromium114内核 安全防护 丰富内置功能 强大AI助手",
                                 "icon": "assets/img/360sfie.webp",
                                 "name": "360安全浏览器",
                                 "rate": 4,
@@ -620,7 +627,7 @@
                             {
                                 "createdAt": "2023-12-03T08:32:06.423Z",
                                 "desc": "高速上网,就用搜狗高速浏览器!搜狗高速浏览器独创预取引擎技术,引领新的上网速度革命,给您带来秒开网页的超快体验。",
-                                "icon": "assets/img/sougouie2.png",
+                                "icon": "assets/img/sougou.jpg",
                                 "name": "搜狗浏览器",
                                 "rate": 4,
                                 "top": false,
@@ -725,7 +732,7 @@
                             {
                                 "createdAt": "2021-01-23T01:32:06.423Z",
                                 "desc": "一款轻便、简洁的在线协作文档工具，PC端和移动端全覆盖，支持多人同时对文档编辑和评论...",
-                                "icon": "assets/img/shimo.png",
+                                "icon": "assets/img/shimo.webp",
                                 "name": "石墨文档",
                                 "rate": 4,
                                 "top": false,
@@ -756,7 +763,7 @@
                             {
                                 "createdAt": "2023-12-03T08:32:06.423Z",
                                 "desc": "迅雷是一家全球领先的去中心化服务商,以技术构建商业,以服务创造共识,累计用户超4亿。面向个人和企业推出迅雷下载、迅雷云盘、迅雷影音、迅雷直播、迅雷会员、云计算、区块链等产品。",
-                                "icon": "https://www.xunlei.com/icons/logo.svg",
+                                "icon": "assets/img/xuelei.webp",
                                 "name": "迅雷",
                                 "rate": 5,
                                 "top": false,
@@ -831,7 +838,7 @@
                             {
                                 "createdAt": "2021-01-23T01:32:06.423Z",
                                 "desc": "拥有海量、优质、高清的网络视频的大型视频网站，专业的网络视频播放平台。",
-                                "icon": "assets/img/iqiyi.png",
+                                "icon": "assets/img/iqiyi.webp",
                                 "name": "爱奇艺",
                                 "rate": 5,
                                 "top": false,
@@ -914,26 +921,8 @@
                             }
                         ],
                         "title": "虚拟机"
-                    },
-                    {
-                        "createdAt": "2021-01-23T01:32:06.423Z",
-                        "nav": [
-                            {
-                                "createdAt": "2021-01-23T01:32:06.423Z",
-                                "desc": "适用于开发人员，数据库管理员，分析师和所有需要使用数据库的人员的免费的多平台数据库工具。支持所有流行的数据库：MySQL，PostgreSQL，SQLite，Oracle，DB2，SQL Server，Sybase，MS Access，Teradata，Firebird，Apache Hive，Phoenix，Presto等",
-                                "icon": "https://avatars3.githubusercontent.com/u/34743864?s=200&v=4",
-                                "name": "DBeaver",
-                                "rate": 3,
-                                "top": false,
-                                "url": "https://dbeaver.io/",
-                                "urls": {
-                                    "Github": "https://github.com/dbeaver/dbeaver"
-                                }
-                            }
-							
-                        ],
-                        "title": "数据库及管理工具"
                     }
+					
 					
                 ],
                 "title": "常用软件"
@@ -979,28 +968,6 @@
                             },
                             {
                                 "createdAt": "2021-01-23T01:32:06.423Z",
-                                "desc": "360查字体 - 查版权，免纠纷",
-                                "icon": "https://p2.ssl.qhimg.com/t014de4ba13ada26743.png",
-                                "name": "360查字体",
-                                "rate": 5,
-                                "top": false,
-                                "url": "https://fonts.safe.360.cn/",
-                                "urls": {
-                                }
-                            },
-                            {
-                                "createdAt": "2021-01-23T01:32:06.423Z",
-                                "desc": "在线HTML转换pdf",
-                                "icon": "https://www.sejda.com/images/icon_128.png",
-                                "name": "sejda",
-                                "rate": 5,
-                                "top": false,
-                                "url": "https://www.sejda.com/html-to-pdf",
-                                "urls": {
-                                }
-                            },
-                            {
-                                "createdAt": "2021-01-23T01:32:06.423Z",
                                 "desc": "Bigjpg - 使用开源waifu2x人工智能深度卷积神经网络（CNN）智能无损免费放大图片",
                                 "icon": "https://bigjpg.com/static/css/touch-icon-iphone.png",
                                 "name": "AI人工智能图片放大",
@@ -1018,17 +985,6 @@
                                 "rate": 5,
                                 "top": false,
                                 "url": "http://tools.bugscaner.com/filebianma/",
-                                "urls": {
-                                }
-                            },
-                            {
-                                "createdAt": "2021-01-23T01:32:06.423Z",
-                                "desc": "收集来自世界各地的5000多个公共IPTV频道",
-                                "icon": "http://tools.bugscaner.com/static/images/favicon.ico",
-                                "name": "iptv",
-                                "rate": 5,
-                                "top": false,
-                                "url": "https://github.com/iptv-org/iptv",
                                 "urls": {
                                 }
                             }
@@ -1118,17 +1074,6 @@
                                 "url": "http://www.ce.cn/",
                                 "urls": {
                                 }
-                            },
-                            {
-                                "createdAt": "2023-12-03T08:32:06.423Z",
-                                "desc": "光明网是光明日报在网络时代的新延伸,也是国内唯一一家定位于思想理论领域的中央重点新闻网站。",
-                                "icon": "https://img.gmw.cn/images/47811.files/images/logo.png?v=23725",
-                                "name": "光明网_新闻视野、文化视角、思想深度、理论高度",
-                                "rate": 5,
-                                "top": false,
-                                "url": "https://www.gmw.cn/",
-                                "urls": {
-                                }
                             }
 							
                         ],
@@ -1137,7 +1082,7 @@
 					
                    
                 ],
-                "title": "官媒新闻"
+                "title": "官媒资讯"
             },
 			{
                 "collapsed": false,
@@ -1221,11 +1166,11 @@
 					
                    
                 ],
-                "title": "新闻资讯"
+                "title": "网络资讯"
             }
 			
 		],
-		"title": "新闻头条"
+		"title": "资讯"
 	},
 	{
 		"createdAt": "2021-01-23T01:32:06.423Z",
@@ -1293,7 +1238,7 @@
 							{
                                 "createdAt": "2021-01-23T01:32:06.423Z",
                                 "desc": "抖音让每一个人看见并连接更大的世界。鼓励表达、沟通和记录，激发创造，丰富人们的精神世界，让现实生活更美好。",
-                                "icon": "assets/img/douyin.png",
+                                "icon": "assets/img/douyin.webp",
                                 "name": "抖音-记录美好生活",
                                 "rate": 3,
                                 "top": false,
@@ -1315,7 +1260,7 @@
 							{
                                 "createdAt": "2021-01-23T01:32:06.423Z",
                                 "desc": "西瓜视频是一款十分不错的视频播放器,它为用户提供海量的视频内容,包括经典大片,热门新番,火爆综艺等等,让用户们一次性看个过瘾。",
-                                "icon": "assets/img/xigua.png",
+                                "icon": "assets/img/xigua.webp",
                                 "name": "西瓜视频",
                                 "rate": 3,
                                 "top": false,
@@ -1364,11 +1309,22 @@
                             {
                                 "createdAt": "2023-12-03T08:32:06.423Z",
                                 "desc": "网易云音乐是一款专注于发现与分享的音乐产品，依托专业音乐人、DJ、好友推荐及社交功能，为用户打造全新的音乐生活。",
-                                "icon": "assets/img/neteasemusic.png",
+                                "icon": "assets/img/neteasemusic.webp",
                                 "name": "网易云音乐",
                                 "rate": 4,
                                 "top": false,
                                 "url": "https://music.163.com/",
+                                "urls": {
+                                }
+                            },
+							{
+                                "createdAt": "2023-12-03T08:32:06.423Z",
+                                "desc": "QQ音乐是腾讯公司推出的一款网络音乐服务产品,海量音乐在线试听、新歌热歌在线首发、歌词翻译、手机铃声下载、高品质无损音乐试听、海量无损曲库、正版音乐下载、空间背景音乐设置、MV观看等,是互...",
+                                "icon": "assets/img/qqmusic.webp",
+                                "name": "QQ音乐-千万正版音乐海量无损曲库新歌热歌天天畅...",
+                                "rate": 4,
+                                "top": false,
+                                "url": "https://y.qq.com/",
                                 "urls": {
                                 }
                             }
@@ -1450,7 +1406,7 @@
                             {
                                 "createdAt": "2023-12-03T08:32:06.423Z",
                                 "desc": "拼多多作为新电商开创者,致力于将娱乐社交的元素融入电商运营中,通过“社交+电商”的模式,让更多的用户带着乐趣分享实惠,享受全新的共享式购物体验。",
-                                "icon": "assets/img/pinduoduo.png",
+                                "icon": "assets/img/pinduoduo.webp",
                                 "name": "拼多多 新电商开创者",
                                 "rate": 4,
                                 "top": false,
@@ -1477,7 +1433,7 @@
 							{
                                 "createdAt": "2023-12-03T08:32:06.423Z",
                                 "desc": "美团是一家科技零售公司。美团以“零售 + 科技”的战略践行“帮大家吃得更好，生活更好”的公司使命。",
-                                "icon": "assets/img/meituan.png",
+                                "icon": "assets/img/meituan.webp",
                                 "name": "美团- 帮大家吃得更好，生活更好",
                                 "rate": 4,
                                 "top": false,
@@ -1513,7 +1469,7 @@
 							{
                                 "createdAt": "2023-12-03T08:32:06.423Z",
                                 "desc": "闲鱼.淘宝二手是一个社区化的二手闲置交易市场,不仅支持各种同城及线上的担保交易,更安全,同时还有最专业的放心购二手商家,让你轻松在这买卖二手闲置。",
-                                "icon": "assets/img/xianyu.png",
+                                "icon": "assets/img/xianyu.webp",
                                 "name": "闲鱼.淘宝二手 - 轻松卖闲置,放心淘二手",
                                 "rate": 4,
                                 "top": false,
@@ -1553,7 +1509,7 @@
 				"title": "奢侈品"
 			}
 		],
-		"title": "电商购物"
+		"title": "商城"
 	},
 	{
 		"createdAt": "2023-12-03T22:13:06.423Z",
@@ -1613,7 +1569,7 @@
                     }
                    
                 ],
-                "title": "旅行"
+                "title": "旅游"
             },
 			{
                 "collapsed": false,
@@ -1636,7 +1592,7 @@
                             }
 							
                         ],
-                        "title": "火车出行"
+                        "title": "火车"
                     },
 					{
                         "collapsed": false,
@@ -1656,16 +1612,16 @@
 							
 							
                         ],
-                        "title": "飞机出行"
+                        "title": "飞机"
                     }
 					
                    
                 ],
-                "title": "出行"
+                "title": "交通"
             }
 			
 		],
-		"title": "旅游出行"
+		"title": "旅行"
 	},
 	{
 		"createdAt": "2023-12-03T22:13:06.423Z",
@@ -1692,7 +1648,7 @@
                             {
                                 "createdAt": "2023-12-03T08:32:06.423Z",
                                 "desc": "申通快递初创于1993年,是中国率先成立的民营快递公司, 开快递加盟制先河,同时也是国家5A级物流企业、全国工商联2023中国民营企业500强、《财富》中国500强,A股上市企业。",
-                                "icon": "assets/img/stoexpress.png",
+                                "icon": "assets/img/stoexpress.webp",
                                 "name": "申通快递官网",
                                 "rate": 3,
                                 "top": false,
@@ -1707,11 +1663,11 @@
 					
                    
                 ],
-                "title": "物流快递"
+                "title": "快递"
             }
 			
 		],
-		"title": "生活服务"
+		"title": "服务"
 	},
     {
         "createdAt": "2021-01-23T01:32:06.423Z",
@@ -1724,6 +1680,17 @@
                         "collapsed": false,
                         "createdAt": "2023-12-03T08:32:06.423Z",
                         "nav": [
+							{
+                                "createdAt": "2023-12-03T08:32:06.423Z",
+                                "desc": "慧学之家，助力你走向美好未来！",
+                                "icon": "assets/logo.png",
+                                "name": "慧学之家",
+                                "rate": 5,
+                                "top": false,
+                                "url": "https://h5.ixuni.ink/h5/?sub=hxxstud#/",
+                                "urls": {
+                                }
+                            },
 							{
                                 "createdAt": "2023-12-03T08:32:06.423Z",
                                 "desc": "免费干货资源",
@@ -1941,7 +1908,7 @@
                         "title": "运营资源"
                     }
                 ],
-                "title": "运营相关"
+                "title": "运营干货"
             }
         ],
         "title": "知识付费"
@@ -1949,6 +1916,31 @@
     {
         "createdAt": "2021-01-23T01:32:06.423Z",
         "nav": [
+			{
+				"createdAt": "2021-01-23T01:32:06.423Z",
+				"nav": [
+					 {
+                        "createdAt": "2021-01-23T01:32:06.424Z",
+                        "nav": [
+                            {
+                                "createdAt": "2021-01-23T01:32:06.424Z",
+                                "desc": "星游会星座运势",
+                                "icon": "assets/img/xyhlogo.png",
+                                "name": "星座与命理",
+                                "rate": 3,
+                                "top": false,
+                                "url": "http://mp.weixin.qq.com/mp/homepage?__biz=MzI1MjE2NjUwOA==&hid=17&sn=d4a52a364d4752d8f400e1c429dc4b92&scene=18#wechat_redirect",
+                                "urls": {
+                                }
+                            }
+							
+                        ],
+                        "title": "星座运势"
+                    }
+					
+				],
+				"title": "星座"
+			},
 			{
 				"createdAt": "2021-01-23T01:32:06.423Z",
 				"nav": [
@@ -2059,7 +2051,7 @@
             }
 			
         ],
-        "title": "阅读"
+        "title": "人文"
     },
 	{
         "createdAt": "2021-01-23T01:32:06.423Z",
@@ -2111,6 +2103,17 @@
                                 "rate": 5,
                                 "top": false,
                                 "url": "https://h5.ixuni.ink/h5/?sub=hxxstud#/",
+                                "urls": {
+                                }
+                            },
+							{
+                                "createdAt": "2021-01-23T01:32:06.424Z",
+                                "desc": "星游会公众号精彩瞬间",
+                                "icon": "assets/img/xyhlogo.png",
+                                "name": "星游会",
+                                "rate": 3,
+                                "top": false,
+                                "url": "https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI1MjE2NjUwOA==#wechat_redirect",
                                 "urls": {
                                 }
                             }
