@@ -868,15 +868,26 @@
 								"url": "https://www.msn.cn/zh-cn/feed",
 								"urls": {
 								}
+							},
+							{
+								"createdAt": "2023-12-03T08:32:06.423Z",
+								"desc": "跟着星游一起看世界",
+								"icon": "assets/img/xyhlogo.png",
+								"name": "星游会",
+								"rate": 4,
+								"top": false,
+								"url": "https://h2xtrip.pikapod.net/",
+								"urls": {
+								}
 							}
 							
 							
 						],
-						"title": "热点平台"
+						"title": "发现热点"
 					}
 					
 				],
-				"title": "热点发现"
+				"title": "热点"
 			}
 			
 		],
@@ -903,10 +914,21 @@
 								"url": "https://www.msn.cn/zh-cn/feed",
 								"urls": {
 								}
+							},
+							{
+								"createdAt": "2023-12-03T08:32:06.423Z",
+								"desc": "跟着星游一起看世界",
+								"icon": "assets/img/xyhlogo.png",
+								"name": "星游会",
+								"rate": 4,
+								"top": false,
+								"url": "https://h2xtrip.pikapod.net/",
+								"urls": {
+								}
 							}
 							
 						],
-						"title": "热点资讯"
+						"title": "追踪热点"
 					}
 					
 				],
@@ -1915,6 +1937,31 @@
     {
         "createdAt": "2021-01-23T01:32:06.423Z",
         "nav": [
+			{
+				"createdAt": "2021-01-23T01:32:06.424Z",
+                "nav": [
+					{
+						"collapsed": false,
+                        "createdAt": "2023-12-03T08:32:06.423Z",
+                        "nav": [
+							{
+                                "createdAt": "2023-12-03T08:32:06.423Z",
+                                "desc": "跟着星游一起看世界",
+                                "icon": "assets/img/xyhlogo.png",
+                                "name": "星游会",
+                                "rate": 5,
+                                "top": false,
+                                "url": "https://h2xtrip.pikapod.net/",
+                                "urls": {
+                                }
+                            }
+							
+						],
+						"title": "兴趣爱好订阅"
+					}
+				],
+				"title": "兴趣爱好"
+			},
 			{
 				
                 "createdAt": "2021-01-23T01:32:06.424Z",
